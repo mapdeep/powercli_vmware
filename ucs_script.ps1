@@ -16,6 +16,7 @@ do {
 	Write-Host "10. Disconnect UCS "
     #Write-Host "10. Quit and Exit"
 	#Write-Host "10. Quit and Exit"
+	#test git
 	Write-Host
 
     [int]$userMenuChoice = Read-Host "Please choose an option"
